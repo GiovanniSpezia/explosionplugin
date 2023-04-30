@@ -1,0 +1,4 @@
+org\explosionplugin\commands\explosion.class
+org\explosionplugin\commands\explosionzone.class
+org\explosionplugin\commands\tnt.class
+org\explosionplugin\ExplosionPlugin.class

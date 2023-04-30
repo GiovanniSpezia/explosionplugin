@@ -1,0 +1,17 @@
+name: ExplosionPlugin
+version: '${project.version}'
+main: org.explosionplugin.ExplosionPlugin
+api-version: 1.19
+authors: [Gioxox]
+description: Plugin for Explosions
+website: giovannispezia.it
+commands:
+  explosion:
+    description: It performs an explosion where you are.
+    usage: /<command>
+  explosionzone:
+    description: It performs an explosion in coordinates
+    usage: /<command>
+  tnt:
+    description: Place a tnt
+    usage: /<command>
